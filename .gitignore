@@ -1,0 +1,11 @@
+```
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts and logs (from package-lock.json in node_modules/)
+node_modules/.package-lock.json
+
+```
